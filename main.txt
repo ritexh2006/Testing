@@ -1,0 +1,54 @@
+
+.jewellery-btn{margin-top: 1rem;}
+
+.jewellery-btn a{
+    font-size: 1rem;
+    padding: 0.7vw 1vw;
+    color: #CBA578;
+    border: 1px solid #CBA578;
+    border-radius: 10px;
+    margin-right: 1rem;
+}   
+
+.lft-main-btm{
+    position: absolute;
+    gap: 1rem;
+    top: 46%;
+}
+
+
+
+.header-main-content{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    /* margin-top: 150px; */
+}
+
+.lft-main-header{
+    justify-content: start;
+    width: 40%;
+    height: 100vh;
+    position: relative;
+    align-items: start;
+    top: 25%;
+    gap: 3vh;
+}
+
+.rght-main-header{
+    width: 40%;
+    position: relative;
+    height: 100vh;
+    /* top:25%; */
+    overflow: hidden;
+    text-align: center;
+}
+
+.lft-main-header h1{
+    font-size: 3.2rem;
+    text-transform: uppercase;
+}
+
+.lft-main-header p{
+    font-size: 1rem;
+}
